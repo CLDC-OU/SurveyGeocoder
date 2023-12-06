@@ -1,0 +1,7 @@
+.gitattributes
+memo.json
+*.bak
+__init__
+__pycache__
+logs
+config.json
